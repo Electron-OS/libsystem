@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
   name = 'libsystem',
   packages = ['libsystem'],
-  version = '0.0.1',
+  version = '0.0.2',
   license='MIT',
   description = 'ElectronOS system library',
   author = 'Morteza Jamali',
   author_email = 'mortezajamali4241@gmail.com',
   url = 'https://github.com/Electron-OS/libsystem',
-  download_url = 'https://github.com/Electron-OS/libsystem/archive/v0.0.1-alpha.tar.gz',
+  download_url = 'https://github.com/Electron-OS/libsystem/archive/v0.0.2-alpha.tar.gz',
   keywords = ['System' , 'Linux' , 'Library' , 'libsystem'],
   install_requires=[],
   classifiers=[
